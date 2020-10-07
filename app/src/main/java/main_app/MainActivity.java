@@ -13,7 +13,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import devlight.io.library.ntb.NavigationTabBar;
-import devlight.io.sample.R;
 
 import java.util.ArrayList;
 
