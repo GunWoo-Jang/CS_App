@@ -9,11 +9,11 @@
     </string-array>
 
     <string-array name="white">
-        <item>#fff</item>
-        <item>#fff</item>
-        <item>#fff</item>
-        <item>#fff</item>
-        <item>#fff</item>
+        <item>#FFD232</item>
+        <item>#FFD232</item>
+        <item>#FFD232</item>
+        <item>#FFD232</item>
+        <item>#FFD232</item>
     </string-array>
 
     <string-array name="polluted_waves">
